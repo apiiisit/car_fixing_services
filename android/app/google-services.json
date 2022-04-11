@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304130518914",
+    "project_id": "car-fixing-services",
+    "storage_bucket": "car-fixing-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304130518914:android:3fccc7c8755a69a491e99b",
+        "android_client_info": {
+          "package_name": "com.apiiisit.car_fixing_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304130518914-jrjng39jtiqjkemnnqqj7f8b3n31ijc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apiiisit.car_fixing_services",
+            "certificate_hash": "9928a832c8653aee4709161c882ea745d11ed066"
+          }
+        },
+        {
+          "client_id": "304130518914-b4mtldn1s1svh5s6vueo6mkiid6o4alk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7I1t5z1hs5ygCt7kt0BBUF2-6u02Z7g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304130518914-b4mtldn1s1svh5s6vueo6mkiid6o4alk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
